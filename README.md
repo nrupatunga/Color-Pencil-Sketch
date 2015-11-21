@@ -29,6 +29,6 @@ Nrupatunga
 Email:  <nrupatunga.tunga@gmail.com>
 
 ##SUGGESTIONS
-If you find that any improvements can be done. Please write to me. 
+Any suggestions. Please write to me. 
 
 Thank you for using the software
