@@ -1,6 +1,5 @@
 ## Color Pencil Sketch
 
-### DESCRIPTION
 Applying Color Pencil Sketch Effect on Images.
 Algorithm implemented from the paper:
 http://www.cse.cuhk.edu.hk/leojia/projects/pencilsketch/npar12_pencil.pdf
@@ -12,7 +11,7 @@ Input           |  Pencil Sketch |  Color Pencil Sketch |
 
 The repository contains both source code as well as GUI application (no color sketch functionality in the GUI application, I will add it soon). Algorithm source code is provided.
 
-# Software
+# Software & Dependency
 
 Based on Qt 5.5.0 (32-bit) and OpenCV 3.0.0
 
