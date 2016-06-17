@@ -1,7 +1,7 @@
 ## Color Pencil Sketch
 
 ### DESCRIPTION
-Applying Color Pencil Sketch Effect on Images
+Applying Color Pencil Sketch Effect on Images.
 Algorithm implemented from the paper:
 http://www.cse.cuhk.edu.hk/leojia/projects/pencilsketch/npar12_pencil.pdf
 
