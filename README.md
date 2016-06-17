@@ -10,6 +10,11 @@ Based on Qt 5.5.0 (32-bit) and OpenCV 3.0.0
 Algorithm implemented from the paper:
 http://www.cse.cuhk.edu.hk/leojia/projects/pencilsketch/npar12_pencil.pdf
 
+###Outputs
+Input           |  Pencil Sketch |  Color Pencil Sketch |
+:-------------------------:|:-------------------------:|:-------------------------:|
+![](https://github.com/nrupatunga/Pencil-Sketch/blob/master/Output/In-1.jpg)  | ![](https://github.com/nrupatunga/Pencil-Sketch/blob/master/Output/outputgraysketch.png) | ![](https://github.com/nrupatunga/Pencil-Sketch/blob/master/Output/outputcolorsketch.png)  |
+
 ### INSTALLATION
 Download the .exe from the release and run
 
