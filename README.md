@@ -4,10 +4,11 @@ Applying Color Pencil Sketch Effect on Images.
 Algorithm implemented from the paper:
 http://www.cse.cuhk.edu.hk/leojia/projects/pencilsketch/npar12_pencil.pdf
 
-###Outputs
-Input           |  Pencil Sketch |  Color Pencil Sketch |
-:-------------------------:|:-------------------------:|:-------------------------:|
-![](https://github.com/nrupatunga/Pencil-Sketch/blob/master/Output/In-1.jpg)  | ![](https://github.com/nrupatunga/Pencil-Sketch/blob/master/Output/outputgraysketch.png) | ![](https://github.com/nrupatunga/Pencil-Sketch/blob/master/Output/outputcolorsketch.png)  |
+### Outputs
+
+|Input           |  Pencil Sketch |  Color Pencil Sketch |
+|------------------------|-------------------------|-------------------------|
+|![](https://github.com/nrupatunga/Pencil-Sketch/blob/master/Output/In-1.jpg)  | ![](https://github.com/nrupatunga/Pencil-Sketch/blob/master/Output/outputgraysketch.png) | ![](https://github.com/nrupatunga/Pencil-Sketch/blob/master/Output/outputcolorsketch.png)  |
 
 The repository contains both source code as well as GUI application (no color sketch functionality in the GUI application, I will add it soon). Algorithm source code is provided.
 
