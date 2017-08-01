@@ -17,9 +17,7 @@ The repository contains both source code as well as GUI application (no color sk
 Based on Qt 5.5.0 (32-bit) and OpenCV 3.0.0
 
 ### INSTALLATION
-Currently installer is only for Windows
-
-Download the .exe from the link below and install
+Currently installer is only for Windows. Download the .exe from the link below and install
 
 https://github.com/nrupatunga/Color-Pencil-Sketch/releases
 
