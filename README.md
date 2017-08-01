@@ -21,7 +21,7 @@ Currently installer is only for Windows. Download the .exe from the link below a
 
 https://github.com/nrupatunga/Color-Pencil-Sketch/releases
 
-### How to use - Video Demo
+### HOW TO USE - VIDEO DEMO
 
 https://youtu.be/bcogmBa1M0I
 
